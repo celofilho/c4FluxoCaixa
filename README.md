@@ -27,5 +27,5 @@ Sistema criado para controlar o fluxo de caixa diário(débitos e créditos) par
 
 Visão Macro:
 
-![diagram](c1.svg)
+![diagram](C1%20-%20Context/c1.svg)
 
