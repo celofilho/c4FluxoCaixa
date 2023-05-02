@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="281px" preserveAspectRatio="none" style="width:967px;height:281px;background:#FFFFFF;" version="1.1" viewBox="0 0 967 281" width="967px" zoomAndPan="magnify"><defs/><g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><g id="elem_user"><rect fill="#08427B" height="140.9531" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="197" x="7" y="7"/><image height="48" width="48" x="81.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABuUlEQVR42u2Yv0oEMRDGp/QRfIR7BVs7Gx9AH0CwtrtKLNXSRsRSG8HCxkbQVrSykoOrzlILC9v4gwMRNptMMsnu3nHDFMcSLh/f/PsmsrY5HpTLUgHaOri8uHt+eJm8vs/wm8e38fn9aPekB0D7p7df3z+uxYC4sXfWEaD17SPIcAqDreqAQBMgpmnHV091ASm5+W8EtxYgQuCyDF7LA+JPXa5RieUBwbwzWHlAVLIFEB2rMKCk4rK0AC0gZzN9/S8soOnHpwWQvhtpATE4h5XUlrKnIKp06uxCS5poCzs6stvjzuF1XfmRVG4ZkihHMSp5SuXGJGG5LEAVPSIpb4qJfIQzQeF6OMORGXSHbCjLuAb1CYhti7whQHQ5PLrlcHh+kiAyN/RxFE0/9OYvH+dJw33gw/nB4bYa5Ltmokl4MTXqMi+sMFtSfFBEDWoD67bUkPSa+d/Gk3i7i6tvxE4LyLhgGOeu9ELPXzLFAVHJrkNrZreUFfN28S9l1x27upVSLwp5hlIYFqBm8a8ADRxQJIfszy72ZxrpeKxGR6xnltEbupkbXtkpbQsh6ozhV8kDCni1dcT8F2bsoAKLcdt7AAAAAElFTkSuQmCC" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="97" x="57" y="81.6094">Comerciante</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="103.5" y="99.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="21" y="117.2676">Responsável por realizar o</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="63" y="134.877">fluxo de caixa</text></g><!--MD5=[c9a997149714d86d94d274165d14f9b1]
+entity flu--><g id="elem_flu"><rect fill="#1168BD" height="130.6875" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="216" x="414" y="12"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="113" x="463.5" y="38.6094">Fluxo de Caixa</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="86" x="479" y="58.7344">Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="520" y="76.7832"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188" x="428" y="94.3926">Sistema que realiza o fluxo de</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="426.5" y="112.002">caixa da empresa e fornece o</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="443.5" y="129.6113">saldo diário consolidado</text></g><!--MD5=[4d14b4c0ea7251d856fa2d4d8f267f17]
+entity con--><g id="elem_con"><rect fill="#999999" height="75.3438" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="132" x="829" y="40"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="75" x="857.5" y="66.6094">Container</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="893" y="84.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="843" y="102.2676">Ambiente isolado</text></g><!--MD5=[300134a14ac4388b2a8fa3c5c7c0166f]
+link user to flu--><g id="link_user_flu"><path d="M204.29,73.27 C214.32,72.96 224.37,72.69 234,72.5 C300.65,71.19 317.34,71.28 384,72.5 C390.93,72.63 398.05,72.79 405.24,72.98 " fill="none" id="user-to-flu" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="413.69,73.21,405.7732,69.9969,405.6125,75.9947,413.69,73.21" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="294.5" y="68.957">Uses</text></g><!--MD5=[3ff55a482051c049ff50d940c161583a]
+link flu to user--><g id="link_flu_user"><path d="M413.91,120.56 C403.92,123.36 393.85,125.76 384,127.5 C318.35,139.11 299.51,139.89 234,127.5 C226.79,126.14 219.47,124.38 212.17,122.34 " fill="none" id="flu-to-user" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="204.26,120.01,211.0967,125.1344,212.7804,119.3755,204.26,120.01" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="148" x="235" y="93.957">Retorna dados de fluxo de</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="110" x="252.5" y="109.0508">caixa e saldo diário</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="69" x="274.5" y="124.1445">consolidado</text></g><!--MD5=[9fcf9dc40c8df511ac1b2bcaa42a0b01]
+link flu to con--><g id="link_flu_con"><path d="M630.31,77.5 C691.38,77.5 766.28,77.5 820.63,77.5 " fill="none" id="flu-to-con" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="828.83,77.5,820.83,74.5,820.83,80.5,828.83,77.5" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="137" x="661" y="73.957">Disponibiliza o ambiente</text></g><rect height="104.0469" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="118" x="827" y="160.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="833" y="183.4863">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="886" y="183.4863"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="833" y="186.5625"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="837" y="201.0957">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="833" y="204.1719"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="837" y="218.7051">system</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="833" y="221.7813"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="837" y="236.3145">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="833" y="239.3906"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="837" y="253.9238">external system</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="939" y1="168.9531" y2="168.9531"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="939" y1="186.5625" y2="186.5625"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="939" y1="204.1719" y2="204.1719"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="939" y1="221.7813" y2="221.7813"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="939" y1="239.3906" y2="239.3906"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="939" y1="257" y2="257"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="833" x2="833" y1="168.9531" y2="257"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="939" x2="939" y1="168.9531" y2="257"/><!--MD5=[2eb0ccc501e6b2cc8a38ef9275d69539]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+LAYOUT_LEFT_RIGHT()
+
+Person(user, "Comerciante", "Responsável por realizar o fluxo de caixa")
+System(flu, "Fluxo de Caixa Application", "Sistema que realiza o fluxo de caixa da empresa e fornece o saldo diário consolidado ")
+System_Ext(con, "Container", "Ambiente isolado")
+
+Rel(user, flu, "Uses")
+Rel(flu, user, "Retorna dados de fluxo de caixa e saldo diário consolidado")
+Rel(flu, con, "Disponibiliza o ambiente")
+
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+left to right direction
+
+rectangle "<$person>\n==Comerciante\n\n Responsável por realizar o fluxo de caixa" <<person>> as user
+rectangle "==Fluxo de Caixa Application\n\n Sistema que realiza o fluxo de caixa da empresa e fornece o saldo diário consolidado " <<system>> as flu
+rectangle "==Container\n\n Ambiente isolado" <<external_system>> as con
+
+user - ->> flu : **Uses**
+flu - ->> user : **Retorna dados de fluxo de caixa e saldo diário consolidado**
+flu - ->> con : **Disponibiliza o ambiente**
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: BR
+--></g></svg>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="514px" preserveAspectRatio="none" style="width:998px;height:514px;background:#FFFFFF;" version="1.1" viewBox="0 0 998 514" width="998px" zoomAndPan="magnify"><defs/><g><!--MD5=[205759ceaf62008ddf204b1c6e75a42b]
+cluster fluxocaixa_system--><g id="cluster_fluxocaixa_system"><rect height="339" rx="2.5" ry="2.5" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="285" x="394" y="7"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="152" x="460.5" y="25.6094">Fluxo-Caixa System</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="63" x="505" y="41.582">[Container]</text></g><!--MD5=[7d9d605557fb4b83e1d7bd20349edf57]
+entity service_fluxocaixa--><g id="elem_service_fluxocaixa"><rect fill="#438DD5" height="125.6563" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="214" x="429.5" y="61"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="177" x="448" y="87.6094">FluxoCaixa-Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="505" y="103.582">[.NET Core]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="534.5" y="120.752"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="450" y="138.3613">API Application: Processa e</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190" x="439.5" y="155.9707">armazena o fluxo de caixa nas</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="439.5" y="173.5801">operações de Débito e Crédito</text></g><!--MD5=[c4198dd6ca5fc2ceecf062f1f7d3004a]
+entity service_saldoDiario--><g id="elem_service_saldoDiario"><rect fill="#438DD5" height="108.0469" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="253" x="410" y="222"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="233" x="420" y="248.6094">SaldoConsolidado-Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="505" y="264.582">[.NET Core]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="534.5" y="281.752"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="450" y="299.3613">API Application: Processa o</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="460" y="316.9707">saldo consolidado diário</text></g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><g id="elem_user"><rect fill="#08427B" height="140.9531" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="197" x="7" y="130.5"/><image height="48" width="48" x="81.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABuUlEQVR42u2Yv0oEMRDGp/QRfIR7BVs7Gx9AH0CwtrtKLNXSRsRSG8HCxkbQVrSykoOrzlILC9v4gwMRNptMMsnu3nHDFMcSLh/f/PsmsrY5HpTLUgHaOri8uHt+eJm8vs/wm8e38fn9aPekB0D7p7df3z+uxYC4sXfWEaD17SPIcAqDreqAQBMgpmnHV091ASm5+W8EtxYgQuCyDF7LA+JPXa5RieUBwbwzWHlAVLIFEB2rMKCk4rK0AC0gZzN9/S8soOnHpwWQvhtpATE4h5XUlrKnIKp06uxCS5poCzs6stvjzuF1XfmRVG4ZkihHMSp5SuXGJGG5LEAVPSIpb4qJfIQzQeF6OMORGXSHbCjLuAb1CYhti7whQHQ5PLrlcHh+kiAyN/RxFE0/9OYvH+dJw33gw/nB4bYa5Ltmokl4MTXqMi+sMFtSfFBEDWoD67bUkPSa+d/Gk3i7i6tvxE4LyLhgGOeu9ELPXzLFAVHJrkNrZreUFfN28S9l1x27upVSLwp5hlIYFqBm8a8ADRxQJIfszy72ZxrpeKxGR6xnltEbupkbXtkpbQsh6ozhV8kDCni1dcT8F2bsoAKLcdt7AAAAAElFTkSuQmCC" y="140.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="97" x="57" y="205.1094">Comerciante</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="103.5" y="223.1582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="21" y="240.7676">Responsável por realizar o</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="63" y="258.377">fluxo de caixa</text></g><!--MD5=[f65ac98b7b0ab0c64af9d00210de8165]
+entity fluxocaixa_database--><g id="elem_fluxocaixa_database"><rect fill="#438DD5" height="108.0469" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="192" x="800" y="136"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="167" x="812.5" y="162.6094">Fluxo-Caixa Database</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="70" x="861" y="178.582">[SQL-Server]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="894" y="195.752"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="814" y="213.3613">Armazena informações de</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="853.5" y="230.9707">fluxo de caixa</text></g><!--MD5=[0c96f732b28320954904cf48e60a0509]
+link service_fluxocaixa to fluxocaixa_database--><g id="link_service_fluxocaixa_fluxocaixa_database"><path d="M643.79,143.62 C690.59,152.26 745.35,162.37 791.79,170.95 " fill="none" id="service_fluxocaixa-to-fluxocaixa_database" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="799.76,172.42,792.432,168.0268,791.3502,173.9284,799.76,172.42" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="73" x="696" y="137.457">Lê e escreve</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="38" x="713.5" y="152.5508">[JDBC]</text></g><!--MD5=[4a7fb47f870ff0ddb45e38421f96641e]
+link service_saldoDiario to fluxocaixa_database--><g id="link_service_saldoDiario_fluxocaixa_database"><path d="M663.04,245.8 C705.19,235.66 751.69,224.47 791.92,214.8 " fill="none" id="service_saldoDiario-to-fluxocaixa_database" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="799.88,212.88,791.4,211.8363,792.8047,217.6696,799.88,212.88" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="73" x="696" y="202.457">Lê e escreve</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="38" x="713.5" y="217.5508">[JDBC]</text></g><!--MD5=[2ed56d6715147a084a37a66b48273206]
+link user to service_fluxocaixa--><g id="link_user_service_fluxocaixa"><path d="M204.12,183.48 C268.62,171.9 353.43,156.68 421.11,144.53 " fill="none" id="user-to-service_fluxocaixa" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="429.27,143.07,420.866,141.5294,421.9252,147.4351,429.27,143.07" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="91" x="259" y="90.457">Acessa para ter</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="96" x="256.5" y="105.5508">informações dos</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="139" x="235" y="120.6445">lançamentos de fluxo de</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="120" x="246" y="135.7383">Caixa(Débito/Crédito)</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="266" y="150.832">[JSON/HTTPS]</text></g><!--MD5=[d5b14040f2a0e2cc57efa7bfdc30d065]
+link user to service_saldoDiario--><g id="link_user_service_saldoDiario"><path d="M204.13,224.84 C214.19,227.04 224.29,229.14 234,231 C288.63,241.48 349.22,250.95 401.67,258.46 " fill="none" id="user-to-service_saldoDiario" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="409.68,259.6,402.1836,255.5007,401.3366,261.4406,409.68,259.6" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="131" x="239" y="197.457">Tem acesso a relatório</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="104" x="254" y="212.5508">consolidado diário</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="266" y="227.6445">[JSON/HTTPS]</text></g><rect height="139.2656" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="133" x="843" y="359"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="849" y="381.5332">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="902" y="381.5332"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="849" y="384.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="853" y="399.1426">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="849" y="402.2188"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="853" y="416.752">system</text><rect fill="#438DD5" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="849" y="419.8281"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="853" y="434.3613">container</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="849" y="437.4375"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="853" y="451.9707">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="849" y="455.0469"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="853" y="469.5801">external system</text><rect fill="#B3B3B3" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="849" y="472.6563"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="853" y="487.1895">external container</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="367" y2="367"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="384.6094" y2="384.6094"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="402.2188" y2="402.2188"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="419.8281" y2="419.8281"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="437.4375" y2="437.4375"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="455.0469" y2="455.0469"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="472.6563" y2="472.6563"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="970" y1="490.2656" y2="490.2656"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="849" x2="849" y1="367" y2="490.2656"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="970" x2="970" y1="367" y2="490.2656"/><!--MD5=[6ac4a24e4bd5345fb6e753baa1f1acae]
+@startuml c2
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+LAYOUT_LEFT_RIGHT()
+ 
+Person(user, "Comerciante", "Responsável por realizar o fluxo de caixa")
+
+Container(fluxocaixa_database, "Fluxo-Caixa Database", "SQL-Server", "Armazena informações de fluxo de caixa")
+
+Container_Boundary(fluxocaixa_system, "Fluxo-Caixa System"){
+   
+    Container(service_fluxocaixa, "FluxoCaixa-Application", ".NET Core","API Application: Processa e armazena o fluxo de caixa nas operações de Débito e Crédito")
+    Container(service_saldoDiario, "SaldoConsolidado-Application", ".NET Core","API Application: Processa o saldo consolidado diário")
+   
+    Rel(service_fluxocaixa, fluxocaixa_database, "Lê e escreve", "JDBC")
+    Rel(service_saldoDiario, fluxocaixa_database, "Lê e escreve", "JDBC")
+  
+}
+
+
+Rel(user, service_fluxocaixa, "Acessa para ter informações dos lançamentos de fluxo de Caixa(Débito/Crédito)","JSON/HTTPS")
+Rel(user, service_saldoDiario, "Tem acesso a relatório consolidado diário","JSON/HTTPS")
+
+
+@enduml
+
+@startuml c2
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system |
+|<#438DD5> container |
+|<#686868> external person |
+|<#999999> external system |
+|<#B3B3B3> external container |
+endlegend
+left to right direction
+ 
+rectangle "<$person>\n==Comerciante\n\n Responsável por realizar o fluxo de caixa" <<person>> as user
+
+rectangle "==Fluxo-Caixa Database\n//<size:12>[SQL-Server]</size>//\n\n Armazena informações de fluxo de caixa" <<container>> as fluxocaixa_database
+
+rectangle "==Fluxo-Caixa System\n<size:12>[Container]</size>" <<boundary>> as fluxocaixa_system{
+   
+    rectangle "==FluxoCaixa-Application\n//<size:12>[.NET Core]</size>//\n\n API Application: Processa e armazena o fluxo de caixa nas operações de Débito e Crédito" <<container>> as service_fluxocaixa
+    rectangle "==SaldoConsolidado-Application\n//<size:12>[.NET Core]</size>//\n\n API Application: Processa o saldo consolidado diário" <<container>> as service_saldoDiario
+   
+service_fluxocaixa - ->> fluxocaixa_database : **Lê e escreve**\n//<size:12>[JDBC]</size>//
+service_saldoDiario - ->> fluxocaixa_database : **Lê e escreve**\n//<size:12>[JDBC]</size>//
+  
+}
+
+
+user - ->> service_fluxocaixa : **Acessa para ter informações dos lançamentos de fluxo de Caixa(Débito/Crédito)**\n//<size:12>[JSON/HTTPS]</size>//
+user - ->> service_saldoDiario : **Tem acesso a relatório consolidado diário**\n//<size:12>[JSON/HTTPS]</size>//
+
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: BR
+--></g></svg>

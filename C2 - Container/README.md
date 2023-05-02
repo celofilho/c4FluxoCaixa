@@ -1,0 +1,27 @@
+# C2 - Container
+
+`\C2 - Container`
+
+* [C4Model](../README.md)
+  * [C1 - Context](../C1%20-%20Context/README.md)
+  * [**C2 - Container**](../C2%20-%20Container/README.md)
+  * [C3 - Component](../C3%20-%20Component/README.md)
+    * [Controle-Lancamento](../C3%20-%20Component/Controle-Lancamento/README.md)
+    * [Saldo-Consolidado](../C3%20-%20Component/Saldo-Consolidado/README.md)
+
+---
+
+[C4Model (up)](../README.md)
+
+---
+
+Nesse nível, você pode ver detalhes do sistema descrevendo os seus containers (não confunda com o Docker) e como eles se comunicam/interagem. Aqui, a ênfase é na arquitetura e tecnologias utilizadas. A ideia é mostrar como o sistema é de forma macro e como um container pode ser uma aplicação web, um database, um sistema de arquivos, etc..
+
+# Arquitetura
+
+O Sistema foi contruído utilizando abordagem de serviços isolados e possui os seguintes módulos (cada módulo é um container):
+
+- **Controle Lançamentos** : É um serviço de backend que faz o controle de todo o lançamento da empresa (Débito/Crédito)
+- **Saldo Consolidado** : É um serviço de backend que disponibiliza o saldo diário consolidado
+
+![diagram](c2.svg)
