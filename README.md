@@ -25,3 +25,7 @@ O C4 Model foi criado por Simon Brown e é baseado no 4+1 e UML. O modelo ajuda 
 
 Sistema criado para controlar o fluxo de caixa diário(débitos e créditos) para comerciantes, onde também será disponilizado o saldo diário consolidado.
 
+Visão Macro:
+
+![diagram](c1.svg)
+
